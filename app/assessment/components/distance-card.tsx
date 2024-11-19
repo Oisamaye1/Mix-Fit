@@ -6,7 +6,7 @@ import React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 // icons
-import { Flame, LandPlot } from "lucide-react";
+import { LandPlot } from "lucide-react";
 
 // charts import
 import dynamic from "next/dynamic";
